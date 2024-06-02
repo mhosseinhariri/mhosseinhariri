@@ -12,8 +12,7 @@ You can find more about me at [M.Hossein.Hariri](https://www.linkedin.com/in/moh
 Love to writing code and learning new features
 
 💻 My Skills:
-
-- C# Language Programming
+- C# Programming Language
 - Python Programming Language
 - SQL Server 2019
 - Mongo DB
