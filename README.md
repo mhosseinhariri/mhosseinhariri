@@ -4,19 +4,20 @@
 ## About Me:
 
 I'm a B.Eng in Computer Science and Masters student in Ai and Robotics , also an OpenSource enthusiast 💎,  <br>
-You can find more about me at [M.Hossein.Hariri](https://www.linkedin.com/in/mohammad-hossein-hariri-5b0697226) ☕.<br><br>
-<div align="center">
-  <img src="github-banner.jpg">
-</div>
+You can find more about me at [M.Hossein.Hariri](https://instagram.com/M.Hossein.Hariri) ☕.<br><br>
+![](/github-banner.jpg)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhosseinhi&show_icons=true&theme=radical)
 <br/>
 Love to writing code and learning new features
 
 💻 My Skills:
-- C# Programming Language
+
+- C# Language Programming
 - Python Programming Language
 - SQL Server 2019
-- Mongo DB
 - Git
+-Yolo 8
 
 💻 Proficient in architectures: 
 - Clean architecture
@@ -41,6 +42,5 @@ Love to writing code and learning new features
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F.svg?style=flat&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
