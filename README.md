@@ -6,9 +6,6 @@
 I'm a B.Eng in Computer Science and Masters student in Ai and Robotics , also an OpenSource enthusiast 💎,  <br>
 You can find more about me at [M.Hossein.Hariri](https://instagram.com/M.Hossein.Hariri) ☕.<br><br>
 ![](/github-banner.jpg)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhosseinhi&show_icons=true&theme=radical)
-<br/>
 Love to writing code and learning new features
 
 💻 My Skills:
