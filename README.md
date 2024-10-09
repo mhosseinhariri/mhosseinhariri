@@ -32,5 +32,3 @@ I am passionate about coding and continuously learning new technologies.
 ![Static Badge](https://img.shields.io/badge/Asp.Net%20Core%20-%20blue?logo=dotnet) 
 ![Static Badge](https://img.shields.io/badge/C%20sharp%20Programming%20Language%20-%20darkviolet?logo=csharp) 
 ![Static Badge](https://img.shields.io/badge/python%20Programming%20Language%20-%20green?logo=python&logoColor=%23000&logoSize=amg)
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white)
