@@ -3,15 +3,15 @@
 
 ## About Me:
 
-I'm a B.Eng in Computer Science and a Master's student in AI and Robotics, also an Open Source enthusiast.<br>
+I hold a B.Eng in Computer Science and am currently pursuing a Master's degree in AI and Robotics. I am also an Open Source enthusiast.<br>
 You can find more about me at [M.Hossein.Hariri](https://instagram.com/M.Hossein.Hariri).<br><br>
 ![](/github-banner.jpg)<br>
-I love writing code and learning new features.
+I am passionate about coding and continuously learning new technologies.
 
 💻 My Skills:
 
-- C# Language Programming
-- Python Programming Language
+- C# Programming
+- Python Programming
 
 🔗 Let's Connect:
 
@@ -20,7 +20,7 @@ I love writing code and learning new features.
 - Email: **mohammadhosseinhariri@outlook.com**
 - Instagram: **https://instagram.com/M.hossein.hariri**
 
-💌 Feel free to reach out to me if you have any questions or if you'd like to collaborate on an exciting project. Let's create something amazing together!
+💌 Feel free to reach out if you have any questions or would like to discuss potential collaborations.
 
 ## 🌐 Socials:
 
