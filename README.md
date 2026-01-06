@@ -19,7 +19,7 @@
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/M.hossein.hariri) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:mohammadhosseinhariri@outlook.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:mh.hariri2024@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-hariri)
 
 ## 💻 Tech Stack:
